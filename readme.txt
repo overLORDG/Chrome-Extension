@@ -1,0 +1,1 @@
+This chrome extension just converts your opened chrome tabs url to a scannable qr code , and also lets you download it however the generated qr code is works fine but when you download it , it sometimes does not work properly.
